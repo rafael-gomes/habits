@@ -6,7 +6,8 @@
 
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-running">How to run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-use">How to Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>
 </p>
 
@@ -52,7 +53,7 @@ This project was developed using the follow technologies:
   - Expo
   - Tailwindcss/Nativewind
 
-## 🛠️ Running
+## 🛠️ How to Use
 It's necessary to have NodeJS and Expo installed on your pc. Follow the official instructions based on your [Operating System](https://nodejs.org/en/download/package-manager/) to install NodeJS if you don't have already installed.
 Clone this repo with the following command:
 

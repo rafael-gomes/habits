@@ -28,7 +28,7 @@
 
 ## 💻 Project
 
-Habits is an app that you can use to track your habits and check if you completed them.
+Habits is an app that you can use to track your habits and check if you completed them. It was developed during the NLW Setup Week.
 
 ## 🚀 Technologies
 
